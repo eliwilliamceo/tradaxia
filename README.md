@@ -5,7 +5,9 @@
 🔗 **Producto en producción:** [tradaxia.com](https://tradaxia.com)
 🔒 El código es privado. Este repositorio cuenta qué es, cómo está hecho y cómo lo construí.
 
-<!-- Capturas: añadir aquí 2-3 imágenes (dashboard, insights, score del trader) -->
+<p align="center">
+  <img src="img/landing.png" width="720" alt="Landing de TRADAXIA" />
+</p>
 
 ---
 
@@ -24,6 +26,19 @@ TRADAXIA no es solo un diario de operaciones: es un sistema de mejora basado en 
 - **Multicuenta:** varias prop firms desde una sola vista.
 - **Tarjeta para compartir** resultados, y exportación a CSV y JSON.
 
+<p align="center">
+  <img src="img/alertas.png" width="720" alt="Alertas automáticas de disciplina" />
+</p>
+
+<p align="center">
+  <img src="img/dashboard.png" width="360" alt="Dashboard con KPIs y curva de capital" />
+  <img src="img/analitica.png" width="360" alt="Analítica por día, activo y setup" />
+</p>
+
+<p align="center">
+  <img src="img/tarjeta-compartir.png" width="480" alt="Tarjeta de resultados para compartir" />
+</p>
+
 Pensado para el trader manual que no puede o no quiere conectar su bróker por API, y centrado en el patrón emocional detrás de las pérdidas.
 
 ## Cómo está hecho
@@ -39,6 +54,10 @@ Pensado para el trader manual que no puede o no quiere conectar su bróker por A
 | Despliegue | Vercel, con despliegue automático en cada cambio |
 
 Incluye landing con lista de espera, onboarding, datos de demostración para usuarios nuevos y un modelo de planes gratuito/Pro.
+
+<p align="center">
+  <img src="img/datos-demo.png" width="480" alt="Bienvenida con datos de demostración" />
+</p>
 
 ## Cómo lo construí: con IA
 
